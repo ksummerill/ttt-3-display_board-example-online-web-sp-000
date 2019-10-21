@@ -2,9 +2,8 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board
-  one = "   "
-  two = "   "
-  three = "   "
+  cell = "   "
+  separates = "   |   "
   first_lines = "-----------"
   four = "   "
   five = "   "
