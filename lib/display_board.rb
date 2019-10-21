@@ -5,6 +5,7 @@ def display_board
   top_row = ["   ", "|", "   ", "|", "  "]
   first_lines = "-----------"
   middle_row = [" ", " ", " "]
+  second_lines = "-----------"
   bottom_row = [" ", " ", " "]
 end
 
