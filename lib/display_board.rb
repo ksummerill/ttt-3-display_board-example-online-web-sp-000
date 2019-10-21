@@ -5,7 +5,7 @@ def display_board
   # cell = "   "
   # separates_cells = "   |   "
   # separates_rows = "-----------"
-  board = "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
+  board = "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n""
   puts display_board
 
 end
