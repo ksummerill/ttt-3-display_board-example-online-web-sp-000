@@ -15,4 +15,4 @@ def display_board
   nine = "   "
 end
 
-# print display_board
+puts display_board
