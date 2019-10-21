@@ -6,6 +6,6 @@ def display_board
   # separates_cells = "   |   "
   # separates_rows = "-----------"
   board = "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
-end
+  puts display_board
 
-puts display_board
+end
