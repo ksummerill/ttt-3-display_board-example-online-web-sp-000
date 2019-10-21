@@ -3,15 +3,10 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board
   cell = "   "
-  separates = "   |   "
-  first_lines = "-----------"
-  four = "   "
-  five = "   "
-  six = "   "
-  second_lines = "-----------"
-  seven = "   "
-  eight = "   "
-  nine = "   "
+  separates_cells = "   |   "
+  separates_rows = "-----------"
+  first_row = 
+
 end
 
 puts display_board
