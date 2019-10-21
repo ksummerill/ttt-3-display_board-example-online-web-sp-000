@@ -2,11 +2,17 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board
-  top_row = ["   ", "|", "   ", "|", "  "]
+  one = "   "
+  two = "   "
+  three = "   "
   first_lines = "-----------"
-  middle_row = [" ", " ", " "]
+  four = "   "
+  five = "   "
+  six = "   "
   second_lines = "-----------"
-  bottom_row = [" ", " ", " "]
+  seven = "   "
+  eight = "   "
+  nine = "   "
 end
 
 # print display_board
