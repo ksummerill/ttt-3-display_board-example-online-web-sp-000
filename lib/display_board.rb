@@ -2,10 +2,7 @@
 # board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board
-  # cell = "   "
-  # separates_cells = "   |   "
-  # separates_rows = "-----------"
-  board = "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n""
+  row = "   |   |   \n"
+  separates_rows = "-----------\n"
   puts display_board
-
 end
