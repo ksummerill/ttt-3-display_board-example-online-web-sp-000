@@ -5,7 +5,7 @@ def display_board
   cell = "   "
   separates_cells = "   |   "
   separates_rows = "-----------"
-  first_row = 
+  first_row =
 
 end
 
